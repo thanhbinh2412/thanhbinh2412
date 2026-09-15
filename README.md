@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nguyen Thanh Binh | 💻 Full Stack Developer, .Net, NuxtJS, VueJS, Flutter | 🛸 Ha Noi , VietNam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nguyen Thanh Binh | 💻 Full Stack Developer, .Net, GoLang, NuxtJS, VueJS, Flutter | 🛸 Ha Noi , VietNam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -30,7 +30,7 @@
   </h5>
 <br />
 <p align="center">
-  <h3> I'm 23 years old Full-Stack developer from VietNam.</h3>
+  <h3> I'm 26 years old Full-Stack developer from VietNam.</h3>
 </p>
 
  <!-- - 🥀 Learning Swift & Objective_C
